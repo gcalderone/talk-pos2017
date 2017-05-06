@@ -1,0 +1,20 @@
+[
+    {
+        "filename": "index.html",
+        "attr": {
+            "data-background": "resources/bg.jpg"
+        }
+    },
+    [
+		"slide-title.html",
+		"md.md"
+	],
+    {
+        "filename": "math-katex.html",
+        "attr": {
+            "data-transition": "fade-in fade-out"
+        }
+    },
+    "questions.html",
+    "fragments.html"
+]
