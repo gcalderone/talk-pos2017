@@ -1,4 +1,5 @@
-##  Bibliografia minima (e incompleta...)
+##  Bibliografia
+### (minima e incompleta...)
 
 - Einstein e il suo universo gonfiabile (M. Goldsmith, Ed. Salani)
 

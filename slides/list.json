@@ -65,12 +65,6 @@
         "xray-bkg-moon.html",
 		"soltan.html"
     ],
-    {
-        "filename": "bib.md",
-        "attr": {
-            "data-background": "resources/bg.jpg",
-            "data-transition": "fade-in fade-out"
-        }
-    },
+    "bib.md",
     "simul.html"
 ]
