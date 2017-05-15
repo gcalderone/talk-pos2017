@@ -1,4 +1,76 @@
 [
     "index.html",
-    "bib.md"
+    [
+        "xvii-sec.html",
+        "absolute-motion.html",
+        "relativity.html",
+        "relativity2.html",
+        "escape-velocity.html",
+        "18-19-sec.html",
+        "speed-of-light.html",
+        "relativity3.html"
+    ],
+    [
+        "einstein.html",
+        "light-clock.html",
+        "simultaneity.html",
+        "muon-lifetime.html"
+    ],
+    [
+        "einstein2.html",
+        "elevator.html",
+        "hawking-zero-g.html",
+        "1915.html",
+        {
+            "filename": "weight-newton.html",
+            "attr": {
+                "data-transition": "slide-in fade-out"
+            }
+        },
+        {
+            "filename": "weight-gr.html",
+            "attr": {
+                "data-transition": "fade-in slide-out"
+            }
+        },
+        "accel-motion.html",
+        "equivalence.html",
+        "light-bending.html",
+        "bh3.html",
+        "bh2.html",
+        "gps.html",
+        "lens1.html",
+        "lens2.html",
+        "lens3.html"
+    ],
+    [
+        "bh-intro.html",
+        "bh-escape.html",
+        "bh-dangerous.html",
+        "bh-type.html",
+        "star-evol.html",
+        "existence.html"
+    ],
+    [
+        "sgr-a-s2.html",
+        "s2.html"
+    ],
+    [
+        "3c273.html",
+        "quasar.html",
+        "engine.html",
+        "accretion.html",
+        "agn-unif.html",
+        "agn-broadband.html",
+        "xray-bkg-moon.html",
+		"soltan.html"
+    ],
+    {
+        "filename": "bib.md",
+        "attr": {
+            "data-background": "resources/bg.jpg",
+            "data-transition": "fade-in fade-out"
+        }
+    },
+    "simul.html"
 ]

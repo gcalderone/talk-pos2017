@@ -3,8 +3,11 @@
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
+
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Tangerine:Bold);
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
@@ -16,7 +19,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 30px;
   font-weight: normal;
-  color: #eee; }
+  color: #ddddff; }
 
 ::selection {
   color: #fff;
@@ -170,7 +173,7 @@ body {
 .reveal table td {
   text-align: left;
   padding: 0.2em 0.5em 0.2em 0.5em;
-  border-bottom: 1px solid; }
+  border: px solid; }
 
 .reveal table th[align="center"],
 .reveal table td[align="center"] {
